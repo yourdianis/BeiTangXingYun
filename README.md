@@ -6,5 +6,3 @@
 - **技能**：擅长Linux, Kubernetes, Python, 监控, 自动化
 - **研究方向**：GO, Istio, Flask, 云原生, Vue
 - **目标**：DEVOPS工程师
-- **联系方式**：1794748404@qq.com
-- **博客地址**：
